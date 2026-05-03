@@ -1,4 +1,4 @@
-# Stylography_BEC
+# Stylometry_BEC
 Pipeline for BEC detection using the Enron corpus. XGBoost + Sentence Transformer + GPT-4o red team
 # Stylometry_BEC
 ### Authorship Verification and Adversarial Attack Pipeline
